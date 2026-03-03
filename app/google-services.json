@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "570000398070",
+    "project_id": "custumerfeedbackapp",
+    "storage_bucket": "custumerfeedbackapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570000398070:android:7e4a9ce536ab2672e57ed7",
+        "android_client_info": {
+          "package_name": "com.example.custumerfeedbackapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVRZ3frMSnaJWm8HAwfzjg5h24UBi6BzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
